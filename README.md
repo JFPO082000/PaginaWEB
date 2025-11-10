@@ -1,2 +1,2 @@
 # PaginaWEB
-proyecto escolar sobre gorras
+proyecto escolar sobre un casino
